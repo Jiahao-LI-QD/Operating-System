@@ -1,7 +1,7 @@
 # Operating-System
 
 Project 1: Shell simulation <br> 
-Simulate simple operations in the terimal style, such as CD, PIPE, running normal programs. <br> 
+Simulate simple operations in the teminal style, such as CD, PIPE, running normal programs. <br> 
 
 Project 2: Process scheduler <br> 
 I. FCFS: first come first serve <br> 
